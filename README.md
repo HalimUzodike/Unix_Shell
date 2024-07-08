@@ -38,5 +38,3 @@ Run the shell:
 
 - Maximum of 512 words per command
 - Does not support advanced features like piping or command substitution
-
-This project is ideal for learning about Unix system programming, process management, and basic shell implementation techniques.
